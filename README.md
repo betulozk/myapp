@@ -18,8 +18,3 @@ Bu proje, Node.js ve MongoDB kullanılarak geliştirilmiş bir e-ticaret yöneti
 - **Dosya Yükleme:** Multer
 - **Responsive Tasarım:** CSS Media Queries
 
-## Kurulum
-
-1. Bu projeyi klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/projeadi.git
